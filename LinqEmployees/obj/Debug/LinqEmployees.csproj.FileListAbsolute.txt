@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\bin\Debug\LinqEmployees.exe.config
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\bin\Debug\LinqEmployees.exe
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\bin\Debug\LinqEmployees.pdb
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\obj\Debug\LinqEmployees.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\obj\Debug\LinqEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\obj\Debug\LinqEmployees.exe
+C:\Users\Admin\source\repos\LinqEmployees\LinqEmployees\obj\Debug\LinqEmployees.pdb
